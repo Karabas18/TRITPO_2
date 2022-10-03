@@ -21,9 +21,9 @@
 ## 2.2 Интерфейс пользователя  
 ## Окно пользователя  
 Главное меню "Взрывные котята".  
-![](https://github.com/Karabas18/TRITPO_2/blob/main/Main_2.pdf)  
+![](https://github.com/Karabas18/TRITPO_2/blob/main/Main_3.png)  
 Вкладка "Игра" в которой пользователи играют.  
-![](https://github.com/Karabas18/TRITPO_2/blob/main/Main.pdf) 
+![](https://github.com/Karabas18/TRITPO_2/blob/main/Game.png) 
 ## 2.3 Характеристики пользователей  
 Пользователь web-приложения - любой человек с доступом в сеть Интернет. Это люди всех возрастов, которые хоть немного знакомы с настольной игрой.
 ## 2.4 Предположения и зависимости 
