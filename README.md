@@ -44,8 +44,10 @@ Explosive kittens
 ## Окно пользователя  
 Главное меню "Взрывные котята".  
 ![](https://github.com/Karabas18/TRITPO_2/blob/main/Cat_1.png)  
-Игровое поле.  
-![](https://github.com/Karabas18/TRITPO_2/blob/main/Game.png) 
+Окно ожидания.  
+![](https://github.com/Karabas18/TRITPO_2/blob/main/Cat_2.png) 
+Игровое окно
+![](https://github.com/Karabas18/TRITPO_2/blob/main/Cat_3.png) 
 ## 2.3 Характеристики пользователей  
 Пользователь web-приложения - любой человек с доступом в сеть Интернет. Для взаимодействия достаточно ознакомится с правилами игры.
 ## 2.4 Предположения и зависимости 
